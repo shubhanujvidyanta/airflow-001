@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "poc-prj-001-422609",
+  "private_key_id": "enter_value_here",
+  "private_key": "enter_value_here",
+  "client_email": "enter_value_here",
+  "client_id": "enter_value_here",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "enter_value_here",
+  "universe_domain": "googleapis.com"
+}
